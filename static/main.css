@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+    margin-bottom: 10px;
+}
+
+h3 {
+    text-align: center;
+    color: aquamarine;
+    margin-top: 0;
+}
+
+li {
+    color: white;
+}
