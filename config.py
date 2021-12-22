@@ -1,6 +1,6 @@
 import pymongo
 import json
-from bson import obj, ObjectId
+from bson import ObjectId
 
 # connection string
 mongo_url = "mongodb://localhost:27017"
